@@ -1,0 +1,8 @@
+name = "PedestrianSimulator"
+uuid = "215487f9-8f45-4f4e-9661-9a548c205f5b"
+authors = ["Lennart Luttkus <lennart.luttkus@uni-a.de>"]
+version = "0.1.0"
+
+[deps]
+AutomotiveSimulator = "6aa42d20-6c96-11ea-1103-339224409280"
+AutomotiveVisualization = "0faf7fd0-6c98-11ea-1740-03605baa3b07"
