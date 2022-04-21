@@ -8,7 +8,7 @@ uuid = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [[AutomotiveSimulator]]
 deps = ["DataFrames", "Distributions", "LinearAlgebra", "Parameters", "Printf", "Random", "Reexport", "StaticArrays", "Tricks"]
-git-tree-sha1 = "8abb2a4050d43b49f41adcfb23ed82f136c76aea"
+path = "/home/luttkule/.julia/dev/AutomotiveSimulator"
 uuid = "6aa42d20-6c96-11ea-1103-339224409280"
 version = "0.1.2"
 
